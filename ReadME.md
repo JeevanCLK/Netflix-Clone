@@ -59,4 +59,36 @@ serve -s build -l 4000
 
 Now you should be able to access the Netflix clone application by opening your web browser and navigating to `http://localhost:4000`.
 
+
+<div align="center">
+<img src="https://github.com/JeevanCLK/Netflix-Clone/blob/master/Assets/Home.png">
+<img src="https://github.com/JeevanCLK/Netflix-Clone/blob/master/Assets/Love.png">
+</div>
+
+#
+
+
+<div align="center">
+<img src="https://github.com/JeevanCLK/Netflix-Clone/blob/master/Assets/start%20wars.png">
+</div>
+
+#
+
+<div align="center">
+<img src="https://github.com/JeevanCLK/Netflix-Clone/blob/master/Assets/Screenshot%20(183).png">
+</div>
+
+#
+
+
+<div align="center">
+<img src="https://github.com/JeevanCLK/Netflix-Clone/blob/master/Assets/Screenshot%20(184).png">
+</div>
+
+#
+
+<div align="center">
+<img src="https://github.com/JeevanCLK/Netflix-Clone/blob/master/Assets/Screenshot%20(185).png">
+</div>
+
 Enjoy exploring the Netflix clone!
